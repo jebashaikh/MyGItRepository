@@ -6,6 +6,9 @@ class HelloGit{
 system.out.printl("Hello Git..i am here!!!!");
 
 }
-
-
+   
+void MyBigMethod()
+{
+sysout("has method impl")
+}
 }
